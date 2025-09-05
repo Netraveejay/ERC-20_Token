@@ -1,4 +1,4 @@
-# ERC-20 Token: CodeNexToken (CNX)
+# ERC-20 Token
 
 ## Project Overview
 This project demonstrates a **simple ERC-20 token** deployed on the **Ethereum Sepolia Testnet**.  
